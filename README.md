@@ -1,2 +1,1 @@
-# PrepCourse
-Este es una prueba de un curso
+Este proyecto es una prueba para clonarlo un repositorio y clonarlo
